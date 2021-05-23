@@ -9,6 +9,7 @@ Please, for hiring inquiries or any questions/concerns email me at [openpunk@pro
 ### Highlights
 
 - [OpenFusion](https://github.com/OpenFusionProject/OpenFusion) - FusionFall server emulator, relevant [openpunk post](https://openpunk.com/pages/fusionfall-openfusion/)
+- [Cosmo](https://github.com/CPunch/Cosmo) - Tiny scripting language, relevant [openpunk post](https://openpunk.com/pages/cosmo-workflow/)
 - [Lua VM Manipulation](https://github.com/CPunch/LUA_VM_EXAMPLE) - Manipulating embedded Lua VMs, relevant [openpunk post](https://openpunk.com/pages/manipulating-lua-vms-1/)
 - [GameBot](https://github.com/CPunch/Gamebot) - Discord Bot that plays gameboy games :)
 - [PiStick](https://github.com/CPunch/PiStick) - Pi Zero W Smart USB stick written using NodeJS
