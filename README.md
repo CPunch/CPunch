@@ -14,6 +14,7 @@ Please, for hiring inquiries or any questions/concerns email me at [openpunk@pro
 - [GameBot](https://github.com/CPunch/Gamebot) - Discord Bot that plays gameboy games :)
 - [C8](https://github.com/CPunch/c8) - tiny chip 8 emulator written in C89
 - [PiStick](https://github.com/CPunch/PiStick) - Pi Zero W Smart USB stick written using NodeJS
+- [FoxNet](https://github.com/CPunch/FoxNet) - Lightweight C++ networking library
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CPunch&theme=gruvbox&show_icons=true&include_all_commits=true&hide=pr" alt="My GitHub statistics" width="450"/>
