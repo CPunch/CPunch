@@ -1,8 +1,6 @@
-## Professional punk, certified human
+## Professional human, certified punk
 
-I write a blog over some of my projects at [openpunk.com](https://openpunk.com),
-this has been a good motivator for me to document my projects & workflow. I enjoy the piano,
-exploring new technologies, and long walks. I am currently available for hire ;)
+I write a blog over some of my projects at [openpunk.com](https://openpunk.com). I enjoy being curious, playing the piano and abandoning hobbies. I am currently available for hire ;)
 
 Please, for hiring inquiries or any questions/concerns email me at [openpunk@protonmail.com](mailto:openpunk@protonmail.com)
 
@@ -17,5 +15,5 @@ Please, for hiring inquiries or any questions/concerns email me at [openpunk@pro
 - [FoxNet](https://github.com/CPunch/FoxNet) - Lightweight C++ networking library
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CPunch&theme=gruvbox&show_icons=true&include_all_commits=true&hide=pr" alt="My GitHub statistics" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CPunch&theme=gruvbox&show_icons=true&include_all_commits=true" alt="My GitHub statistics" width="450"/>
 </p>
