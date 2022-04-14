@@ -1,18 +1,6 @@
-## Professional human, certified punk
-
-I write a blog over some of my projects at [openpunk.com](https://openpunk.com). I enjoy being curious, playing the piano and abandoning hobbies. I am currently available for hire ;)
+Checkout my site over at [openpunk.com](https://openpunk.com). I enjoy being curious, playing the piano and abandoning hobbies.
 
 Please, for hiring inquiries or any questions/concerns email me at [openpunk@protonmail.com](mailto:openpunk@protonmail.com)
-
-### Highlights
-
-- [OpenFusion](https://github.com/OpenFusionProject/OpenFusion) - FusionFall server emulator, relevant [openpunk post](https://openpunk.com/pages/fusionfall-openfusion/)
-- [Laika](https://github.com/CPunch/Laika) - Lightweight RAT stack written in modern C, using real-world methods of obfuscation
-- [Cosmo](https://github.com/CPunch/Cosmo) - Tiny scripting language, relevant [openpunk post](https://openpunk.com/pages/cosmo-workflow/)
-- [Lua VM Manipulation](https://github.com/CPunch/LUA_VM_EXAMPLE) - Manipulating embedded Lua VMs, relevant [openpunk post](https://openpunk.com/pages/manipulating-lua-vms-1/)
-- [GameBot](https://github.com/CPunch/Gamebot) - Discord Bot that plays gameboy games :)
-- [C8](https://github.com/CPunch/c8) - tiny chip 8 emulator written in C89
-- [PiStick](https://github.com/CPunch/PiStick) - Pi Zero W Smart USB stick written using NodeJS
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CPunch&theme=gruvbox&show_icons=true&include_all_commits=true" alt="My GitHub statistics" width="450"/>
