@@ -1,4 +1,4 @@
-Checkout my site over at [openpunk.com](https://openpunk.com). I enjoy being curious, playing the piano and abandoning hobbies. Please, for hiring inquiries or any questions/concerns email me at [openpunk@protonmail.com](mailto:openpunk@protonmail.com)
+Checkout my site over at [openpunk.com](https://openpunk.com). I enjoy being curious, playing the piano and abandoning hobbies. Please, for hiring inquiries or any questions/concerns email me at [cpunch@openpunk.com](mailto:cpunch@openpunk.com)
 
 please see my resume [here](https://github.com/CPunch/resume)
 
